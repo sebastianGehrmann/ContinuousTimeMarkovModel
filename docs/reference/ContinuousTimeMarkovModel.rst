@@ -1,5 +1,0 @@
-ContinuousTimeMarkovModel
-=========================
-
-.. automodule:: ContinuousTimeMarkovModel
-    :members:
